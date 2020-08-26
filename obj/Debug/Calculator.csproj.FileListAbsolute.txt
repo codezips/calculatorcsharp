@@ -20,3 +20,16 @@ D:\github\cleod9\CSharp\calculatorsharp\obj\Debug\Calculator.AboutBox2.resources
 D:\github\cleod9\CSharp\calculatorsharp\obj\Debug\Calculator.Calculator.resources
 D:\github\cleod9\CSharp\calculatorsharp\obj\Debug\Calculator.Properties.Resources.resources
 D:\github\cleod9\CSharp\calculatorsharp\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\GitHub\calculatorcsharp\bin\Debug\Documentation.htm
+C:\Users\HP\Documents\GitHub\calculatorcsharp\bin\Debug\Calculator#.exe
+C:\Users\HP\Documents\GitHub\calculatorcsharp\bin\Debug\Calculator#.pdb
+C:\Users\HP\Documents\GitHub\calculatorcsharp\bin\Debug\nunit.framework.xml
+C:\Users\HP\Documents\GitHub\calculatorcsharp\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\HP\Documents\GitHub\calculatorcsharp\obj\Debug\Calculator.AboutBox2.resources
+C:\Users\HP\Documents\GitHub\calculatorcsharp\obj\Debug\Calculator.Calculator.resources
+C:\Users\HP\Documents\GitHub\calculatorcsharp\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\HP\Documents\GitHub\calculatorcsharp\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\HP\Documents\GitHub\calculatorcsharp\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\calculatorcsharp\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\HP\Documents\GitHub\calculatorcsharp\obj\Debug\Calculator#.exe
+C:\Users\HP\Documents\GitHub\calculatorcsharp\obj\Debug\Calculator#.pdb
